@@ -10,7 +10,6 @@ The incubator provides guideline and discussion place to projects which want to 
 - Start building a community around the project
 - Invite new maintainers
 - Make project releases and document and refine both the code and the release process
-
-
+- Add the project to [flink-packages.org](flink-packages.org) to let more people know about it
 
 
