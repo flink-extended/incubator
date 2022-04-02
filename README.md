@@ -4,8 +4,8 @@ The incubator provides guideline and discussion place to projects which want to 
 # How to Contribute Project to Flink Extended Organization? 
 
 - Prepare new project proposal in the [issues page](https://github.com/flink-extended/incubator/issues), learn more about the [proposal template](https://github.com/flink-extended/incubator/issues/1)
-- If needed, refine the proposal based on [@incubator-team](https://github.com/orgs/flink-extended/teams/incubator-team) (consists mainly of Flink PMC members) feedback
-- Let the [@incubator-team](https://github.com/orgs/flink-extended/teams/incubator-team) vote on the proposal
+- If needed, refine the proposal based on Incubator Team (consists mainly of Flink PMC members) feedback
+- Let the Incubator Team vote on the proposal
 - Setup the project repository
 - Start building a community around the project
 - Invite new maintainers
